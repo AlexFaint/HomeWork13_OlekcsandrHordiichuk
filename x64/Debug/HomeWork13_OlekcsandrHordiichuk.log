@@ -1,0 +1,3 @@
+﻿  main.cpp
+G:\Unreal\R_D\C++\HomeWork13_OlekcsandrHordiichuk\main.cpp(67,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HomeWork13_OlekcsandrHordiichuk.vcxproj -> G:\Unreal\R_D\C++\HomeWork13_OlekcsandrHordiichuk\x64\Debug\HomeWork13_OlekcsandrHordiichuk.exe
